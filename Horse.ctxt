@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Horse()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Realiza\ os\ movimentos\ validos\ do\ cavalo\ no\ xadrez.\n
+comment2.params=
+comment2.target=java.lang.Integer[][]\ valid_moviments()
+comment2.text=\n\ Obt\u221A\u00A9m\ todos\ os\ movimentos\ v\u221A\u00B0lidos.\ \n
+numComments=3
